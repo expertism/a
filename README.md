@@ -1,4 +1,4 @@
-# Hi there, I'm expertism 👋
+# Hi there, I'm Ahmed 👋
 
 I'm a developer and an IT student passionate about learning and building with modern technologies. Whether it's building web apps or exploring new programming languages, I'm always eager to take on new challenges.
 
