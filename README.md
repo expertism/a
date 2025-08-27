@@ -8,7 +8,7 @@ I'm a developer and an IT student passionate about learning and building with mo
 - **Styling:** Tailwind CSS
 
 ## 🎮 Fun Facts
-- I love playing games—ask me about my favorites!
+- I love playing games (ask me about my favorites!)
 - Foodie at heart: my top picks are chicken wings or a chicken burger 🍗🍔
 
 ---
