@@ -4,8 +4,7 @@ I'm a developer and an IT student passionate about learning and building with mo
 
 ## 🚀 Tech Stack
 - **Languages:** Python, TypeScript, Rust, Java, Kotlin
-- **Frameworks/Libraries:** React, Node.js, Vue
-- **Styling:** Tailwind CSS
+- **Frameworks/Libraries:** React, Node.js, Vue, Next.js, Tailwind CSS
 
 ## 🎮 Fun Facts
 - I love playing games (ask me about my favorites!)
@@ -13,4 +12,4 @@ I'm a developer and an IT student passionate about learning and building with mo
 
 ---
 
-Thanks for visiting my profile! Let’s connect and build something awesome.
+Thanks for visiting my profile!
